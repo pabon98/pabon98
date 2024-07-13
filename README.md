@@ -1,17 +1,16 @@
-![Web Developer](https://wallpapercave.com/wp/wp10167060.jpg)
+![SQA Engineer](https://media.licdn.com/dms/image/D4D12AQENwnEzkBxXFA/article-cover_image-shrink_600_2000/0/1686053270862?e=2147483647&v=beta&t=m0fP24hGeys9Hj1v82asaLiNkUxVVcyUXWvk8p_1QA8)
 
 ### Hi there 👋, I am Hasin Anjum Pabon
-#### Web Developer
+#### Junior SQA Engineer
 
 
-I am Mern Stack Developer who is passionate about making error-free websites. I have done many projects using reactjs. I also love to solve real world problems.
+I am Junior SQA Enginner with a solid foundation in software testing and defect identification. I am Proficient at Functional Testing, Regression Testing, Smoke Testing, Sanity Testing etc. I have Strong analytical and communication skills enable effective collaboration with development teams to deliver high-quality software solutions.I am eager to contribute to and grow within a dynamic software quality assurance team..
 
-Skills:  REACT / JS / HTML / CSS/ NodeJS/ MongoDB
+Skills: Functional Testing | Regression Testing | Smoke Testing | Sanity Testing | REACT / JS / HTML / CSS/ NodeJS/ MongoDB
 
 - 🔭 I’m currently working on Software Company 
-- 🌱 I’m currently learning NextJs , Redux 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+- 🌱 I’m currently learning Manual Testing 
+- 💬 Ask me about Software Testing
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pabon98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasin-anjum-pabon-370715206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasin.pabon)  
