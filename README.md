@@ -6,7 +6,7 @@
 
 I am Junior SQA Enginner with a solid foundation in software testing and defect identification. I am Proficient at Functional Testing, Regression Testing, Smoke Testing, Sanity Testing etc. I have Strong analytical and communication skills enable effective collaboration with development teams to deliver high-quality software solutions.I am eager to contribute to and grow within a dynamic software quality assurance team..
 
-Skills: Functional Testing | Regression Testing | Smoke Testing | Sanity Testing | REACT / JS / HTML / CSS/ NodeJS/ MongoDB
+Skills: Functional Testing | Regression Testing | Smoke Testing | Sanity Testing | REACT | JS | HTML | CSS | NodeJS | MongoDB
 
 - 🔭 I’m currently working on Software Company 
 - 🌱 I’m currently learning Manual Testing 
